@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(9, 3, 3);
+}
+h1 {
+    color: white;
+    position: relative;
+    left: 190px;
+    bottom: 60px;
+
+}
+.js-score {
+    color: white;
+}
+.bod {
+    display: block;
+    width: 100x;
+    height: 100px;
+    position: relative;
+    left: 400px;
+    top: 50px;
+}
+img {
+    width: 150px;
+    height: 150px;
+    
+}
+.x {
+    display: inline-block;
+    background-color: black;
+    position: relative;
+    
+    
+   
+}
